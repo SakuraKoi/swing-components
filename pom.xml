@@ -48,4 +48,12 @@
             </plugin>
         </plugins>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/SakuraKoi/swing-components</url>
+        </repository>
+    </distributionManagement>
 </project>
