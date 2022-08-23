@@ -43,7 +43,7 @@ public class CustomFlatMaterialDarkLaf extends IntelliJTheme.ThemeLaf {
     static IntelliJTheme loadTheme() {
         try {
             return new IntelliJTheme(Objects.requireNonNull(
-                    CustomFlatMaterialDarkLaf.class.getResourceAsStream("/theme.json")
+                    CustomFlatMaterialDarkLaf.class.getResourceAsStream("/theme-customed.json")
             ));
         } catch (IOException var3) {
             String msg = "FlatLaf: Failed to load IntelliJ theme";

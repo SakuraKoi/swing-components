@@ -26,7 +26,6 @@
     "activeCaption": "#212121",
     "ActionButton": {
       "hoverBackground": "#76FF0350",
-      "hoverBorderColor": "#76FF0350",
       "hoverSeparatorColor": "#2A2A2A",
       "focusedBorderColor": "#76FF0350",
       "pressedBackground": "#76FF0350",
@@ -56,7 +55,7 @@
       "endBorderColor": "#2A2A2A",
       "focus": "#3F3F3F",
       "focusedBorderColor": "#76FF03",
-      "foreground": "#727272",
+      "foreground": "#a7a7a7",
       "highlight": "#FFFFFF",
       "mt.background": "#2A2A2A",
       "mt.foreground": "#727272",
