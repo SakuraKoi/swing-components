@@ -14,7 +14,7 @@ public class CustomFlatMaterialDarkLaf extends IntelliJTheme.ThemeLaf {
     public static boolean setup() {
         try {
             if (setup(new CustomFlatMaterialDarkLaf())) {
-                UIManager.put("ProgressBarUI", "sakura.kooi.lib.swing.ui.render.DarculaProgressBarUI");
+                UIManager.put("ProgressBarUI", "sakura.kooi.lib.swing.ui.DarculaProgressBarUI");
                 //UIManager.put("Component.focusColor", "#76ff03");
                 UIManager.put("Button.arc", 0);
                 UIManager.put("Component.arc", 0);
